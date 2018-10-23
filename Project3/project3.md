@@ -103,6 +103,7 @@ However, It takes about 4200 seconds for ALL process because matlab code impleme
 Naive Image
 
 ![Alt text](./Figure/naiveblend.jpg)
+
 Poission Blending Image
 
 ![Alt text](./Figure/poissonblend.jpg)
@@ -140,6 +141,7 @@ toc
 Naive Image
 
 ![Alt text](./Figure/naiveblend.jpg)
+
 Mixed Blending Image
 
 ![Alt text](./Figure/mixedblend.jpg)
@@ -156,4 +158,14 @@ Poission Blending Image
 Mixed Blending Image
 
 ![Alt text](./Figure/mixedblend_sky.jpg)
+
+Naive Image
+
+![Alt text](./Figure/naiveblend_iphone.jpg)
+Poission Blending Image
+
+![Alt text](./Figure/poissonblend_iphone.jpg) 
+Mixed Blending Image
+
+![Alt text](./Figure/mixedblend_iphone.jpg)
 
