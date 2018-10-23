@@ -140,7 +140,7 @@ toc
 
 Naive Image
 
-![Alt text](./Figure/naiveblend.jpg)
+![Alt text](./Figure/naiveblend2.jpg)
 
 Mixed Blending Image
 
@@ -152,9 +152,11 @@ Mixed Blending Image
 Naive Image
 
 ![Alt text](./Figure/naiveblend_sky.jpg)
+
 Poission Blending Image
 
 ![Alt text](./Figure/poissonblend_sky.jpg) 
+
 Mixed Blending Image
 
 ![Alt text](./Figure/mixedblend_sky.jpg)
@@ -162,9 +164,11 @@ Mixed Blending Image
 Naive Image
 
 ![Alt text](./Figure/naiveblend_iphone.jpg)
+
 Poission Blending Image
 
 ![Alt text](./Figure/poissonblend_iphone.jpg) 
+
 Mixed Blending Image
 
 ![Alt text](./Figure/mixedblend_iphone.jpg)
