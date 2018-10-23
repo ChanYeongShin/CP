@@ -23,7 +23,7 @@ addpath('./src');
 
 **Results**
 ```
-![Alt text](/assignment1_result/figure1.png)
+![Alt text](/Figure/figure1.png)
 ```
 
 ### Question 2. POISSION BLENDING (50pts)
