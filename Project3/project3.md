@@ -92,8 +92,7 @@ objmask2 = getMask(im2_object);
 % blend
 im_blend = poissonBlend(im_s, mask_s, im_background);
 im2_blend = poissonBlend(im_s2, mask_s2, im_blend);
-figure(5), hold off, imshow(im_blend);
-figure(6), hold off, imshow(im2_blend);
+figure(5), hold off, imshow(im2_blend);
 
 toc
 ```
@@ -135,8 +134,10 @@ toc
 
 
 **Results**
-```
-```
+#### Naive Image
+
+![Alt text](./Figure/naiveblend.jpg)
+#### Mixed Blending Image
 
 ### Question 4. MY OWN EXAMPLES (20pts)
 
