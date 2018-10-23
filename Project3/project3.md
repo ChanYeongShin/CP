@@ -71,6 +71,9 @@ end
 
 ![Alt text](./Figure/toy_example.jpg)
 ### Question 2. POISSION BLENDING (50pts)
+
+Function getMask, alignSource, poissonBlend is used.
+
 ```matlab
 %% POISSON BLENDING (50pts)
 
@@ -109,6 +112,9 @@ Poission Blending Image
 ![Alt text](./Figure/poissonblend.jpg)
 
 ### Question 3. BLEDNING WITH MIXED GRADIENTS (10pts)
+
+Function getMask, alignSource, mixedBlend is used.
+
 ```matlab
 %% BLENDING WITH MIXED GRADIENTS (10pts)
 
@@ -134,7 +140,6 @@ figure(6), hold off, imshow(im2_blend);
 
 toc
 ```
-
 
 **Results**
 
