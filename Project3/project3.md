@@ -99,10 +99,11 @@ toc
 However, It takes about 4200 seconds for ALL process because matlab code implements all image size..
 
 **Results**
-##### Naive Image
+
+Naive Image
 
 ![Alt text](./Figure/naiveblend.jpg)
-##### Poission Blending Image
+Poission Blending Image
 
 ![Alt text](./Figure/poissonblend.jpg)
 
@@ -135,12 +136,24 @@ toc
 
 
 **Results**
-##### Naive Image
+
+Naive Image
 
 ![Alt text](./Figure/naiveblend.jpg)
-##### Mixed Blending Image
+Mixed Blending Image
 
+![Alt text](./Figure/mixedblend.jpg)
 ### Question 4. MY OWN EXAMPLES (20pts)
 
 **Results**
+
+Naive Image
+
+![Alt text](./Figure/naiveblend_sky.jpg)
+Poission Blending Image
+
+![Alt text](./Figure/poissonblend_sky.jpg) 
+Mixed Blending Image
+
+![Alt text](./Figure/mixedblend_sky.jpg)
 
