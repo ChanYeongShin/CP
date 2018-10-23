@@ -98,10 +98,10 @@ toc
 ```
 
 **Results**
-#### Naive Image
+##### Naive Image
 
 ![Alt text](./Figure/naiveblend.jpg)
-#### Poission Blending Image
+##### Poission Blending Image
 
 ![Alt text](./Figure/poissonblend.jpg)
 
@@ -134,10 +134,10 @@ toc
 
 
 **Results**
-#### Naive Image
+##### Naive Image
 
 ![Alt text](./Figure/naiveblend.jpg)
-#### Mixed Blending Image
+##### Mixed Blending Image
 
 ### Question 4. MY OWN EXAMPLES (20pts)
 
