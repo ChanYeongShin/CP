@@ -22,9 +22,9 @@ addpath('./src');
 ```
 
 **Results**
-```
-![Alt text](/Figure/toy_example.jpg)
-```
+
+![Alt text](./Figure/toy_example.jpg)
+
 
 ### Question 2. POISSION BLENDING (50pts)
 ```matlab
