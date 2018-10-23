@@ -6,18 +6,18 @@ close all; clc;
 % Adding src path 
 addpath('./src'); 
 
-% disp('-----------------TOY-----------------');
-% 
-% tic
-% 
-% img = imread('./data/toy_problem.png');
-% figure(), subplot(1,2,1), imshow(img);
-% 
-% img2 = toy_example('./data/toy_problem.png');
-% subplot(1,2,2), imshow(img2);
-% fprintf('\n');
-% 
-% toc
+ disp('-----------------TOY-----------------');
+ 
+ tic
+ 
+ img = imread('./data/toy_problem.png');
+ figure(), subplot(1,2,1), imshow(img);
+ 
+ img2 = toy_example('./data/toy_problem.png');
+ subplot(1,2,2), imshow(img2);
+ fprintf('\n');
+ 
+ toc
 
 %% POISSON BLENDING (50pts)
 
