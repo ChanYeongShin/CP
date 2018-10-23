@@ -97,6 +97,7 @@ figure(5), hold off, imshow(im2_blend);
 toc
 ```
 However, It takes about 4200 seconds for ALL process because matlab code implements all image size..
+
 **Results**
 ##### Naive Image
 
