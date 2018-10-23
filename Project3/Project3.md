@@ -72,6 +72,5 @@ toc
 ### Question 4. MY OWN EXAMPLES (20pts)
 
 **Results**
-![Alt text](/assignment1_result/figure2.png)
 
 
