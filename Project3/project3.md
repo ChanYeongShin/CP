@@ -173,3 +173,15 @@ Mixed Blending Image
 
 ![Alt text](./Figure/mixedblend_iphone.jpg)
 
+Naive Image
+
+![Alt text](./Figure/naiveblend_space.jpg)
+
+Poission Blending Image
+
+![Alt text](./Figure/poissonblend_space.jpg) 
+
+Mixed Blending Image
+
+![Alt text](./Figure/mixedblend_space.jpg)
+
