@@ -55,11 +55,9 @@ toc
 ```
 
 **Results**
-
 #### Naive Image
 
 ![Alt text](./Figure/naiveblend.jpg)
-
 #### Poission Blending Image
 
 ![Alt text](./Figure/poissonblend.jpg)
