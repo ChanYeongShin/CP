@@ -68,6 +68,7 @@ x = reshape(v,[size(im,1) size(im,2)]);
 end
 ```
 **Results**
+
 ![Alt text](./Figure/toy_example.jpg)
 ### Question 2. POISSION BLENDING (50pts)
 ```matlab
