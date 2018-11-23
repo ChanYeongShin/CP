@@ -4,6 +4,8 @@
 
 I convert '.nef file' into '.tiff file' by using dcraw.exe
 
+![Alt text](./Figure/dcraw.png)
+
 ### Question 1. LINEARIZED RENDERED IMAGE (25pts)
 
 This work is to linearize the rendered image which is non-linear. To achieve my goal , I have to solve least squares optimization problem.
