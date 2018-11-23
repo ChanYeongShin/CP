@@ -22,7 +22,6 @@ I choose 'lambda = 1000' for strict smoothing and Result part shows each 'g' cur
 ![Alt text](./Figure/G_curve_tent.jpg)
 
 ![Alt text](./Figure/G_curve_gaussian.jpg)
-
 As you see, 'g' curve using tent and gaussian is more smoother than uniform weighting type.
 
 ### Question 2. MERGE EXPOSURE STACK INTO HDR IMAGE (15pts)
@@ -31,7 +30,18 @@ I merge exposure stack into HDR IMAGE each with two 'file_type : Rendered, Raw',
 
 **Results**
 
-
+![Alt text](./Figure/uniform_raw_linear.jpg)
+![Alt text](./Figure/uniform_raw_logarithmic.jpg)
+![Alt text](./Figure/uniform_rendered_linear.jpg)
+![Alt text](./Figure/uniform_rendered_logarithmic.jpg)
+![Alt text](./Figure/tent_raw_linear.jpg)
+![Alt text](./Figure/tent_raw_logarithmic.jpg)
+![Alt text](./Figure/tent_rendered_linear.jpg)
+![Alt text](./Figure/tent_rendered_logarithmic.jpg)
+![Alt text](./Figure/gaussian_raw_linear.jpg)
+![Alt text](./Figure/gaussian_raw_logarithmic.jpg)
+![Alt text](./Figure/gaussian_rendered_linear.jpg)
+![Alt text](./Figure/gaussian_rendered_logarithmic.jpg)
 
 
 ### Question 3. EVALUATION (10pts)
