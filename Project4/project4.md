@@ -98,11 +98,14 @@ end
 
 ### Question 4. PHOTOGRAPHIC TONEMAPPING (20pts)
 
+Given equation which is shown below, I got two photographic tonemapped images(RGB colorspace, xyY colorspace). Using RGB colorspace is better than xyY colorspace in my view. 
+
 ![Alt text](./Figure/formula_q3.png)
 
 **Results**
 
-
+![Alt text](./Figure/photo_rgb.png)
+![Alt text](./Figure/photo_xyY.png)
 
 ### Question 5. TONEMAPPING USING BILITERAL FILTERING (30pts)
 
