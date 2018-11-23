@@ -120,7 +120,7 @@ end
 
 **Results**
 
-
+![Alt text](./Figure/linear_regression.jpg)
 
 ### Question 4. PHOTOGRAPHIC TONEMAPPING (20pts)
 
