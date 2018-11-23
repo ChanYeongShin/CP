@@ -81,14 +81,12 @@ for idx_weight=1:3
         b = X \ y;
         yCalc = X * b;
         
-        Rsq = 1 - sum((y - yCalc).^2) / sum((y - mean(y)).^2);
-        
         subplot(3, 2, e);
         plot(X(:, 2), yCalc);
         hold on;
         scatter(X(:, 2), y);
         hold off;
-        title(sprintf('%s %s(Rsq: %.5f)', weight_type{idx_weight}, merge_type{idx_merge}, Rsq));
+        title(sprintf('%s %s', weight_type{idx_weight}, merge_type{idx_merge});
     end
 end
 ```
