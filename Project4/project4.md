@@ -3,7 +3,7 @@
 
 This work is to linearize the rendered image which is non-linear. To achieve my goal , I have to solve least squares optimization problem.
 
-![Alt text](./Figure/Q1/formula.jpg)
+![Alt text](./Figure/formula_q1.png)
 
 I choose 'lambda = 1000' for strict smoothing and Result part shows each 'g' curve using uniform, tent, gaussian weight scheme for each color channels, respectively.
 
