@@ -59,34 +59,9 @@ As you see, in uniform weighting cases, Raw image is better thatn Rendered image
 
 ### Question 3. EVALUATION (10pts)
 
-I use linear regression each types.
+I use linear regression each types(uniform linear, logarithmic + tent linear, logarithmic + gaussian linear, logarithmic).
 
 ```matlab
-UNIFORM = 1; TENT = 2; GAUSSIAN = 3;
-LOGARITHMIC = 1; LINEAR = 2;
-weight_type={'uniform', 'tent', 'gaussian'};
-merge_type={'logarithmic', 'linear'};
-
-image_stack = cell(3, 2);
-
-position = [770 126  750 143;
-            772 156  752 178;
-            775 188  753 208;
-            775 220  755 238;
-            775 250  756 272;
-            778 284  758 304];
-
-for idx_weight=1:3
-    for idx_merge=1:2
-        matfile = load(sprintf('results/Q2_HDR/hdr_raw/%s_raw_%s.mat', weight_type{idx_weight}, merge_type{idx_merge}));
-        im = matfile.im_hdr;
-        
-        im = rgb2xyz(im, 'ColorSpace', 'linear-rgb');
-        image_stack{idx_weight, idx_merge} = im;
-    end
-end
-
-intensity = zeros(3, 2, 6);
 
 % Linear regression
 e = 0;
@@ -117,12 +92,13 @@ for idx_weight=1:3
     end
 end
 ```
-
 **Results**
 
 ![Alt text](./Figure/linear_regression.jpg)
 
 ### Question 4. PHOTOGRAPHIC TONEMAPPING (20pts)
+
+![Alt text](./Figure/formula_q3.png)
 
 **Results**
 
