@@ -118,6 +118,6 @@ By using bilateral filter, it makes image edge clear. But I think using this met
 **Results**
 
 **RGB channel space**
-![Alt text](./Figure/biliteral_rgb.png)
+![Alt text](./Figure/bilateral_rgb.png)
 **xyY channel space**
-![Alt text](./Figure/biliteral_xyY.png)
+![Alt text](./Figure/bilateral_xyY.png)
