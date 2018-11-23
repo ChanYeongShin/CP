@@ -30,19 +30,32 @@ I merge exposure stack into HDR IMAGE each with two 'file_type : Rendered, Raw',
 
 **Results**
 
+**uniform, raw, linear**
 ![Alt text](./Figure/uniform_raw_linear.jpg)
+**uniform, raw, logarithmic**
 ![Alt text](./Figure/uniform_raw_logarithmic.jpg)
+**uniform, rendered, linear**
 ![Alt text](./Figure/uniform_rendered_linear.jpg)
+**uniform, rendered, logarithmic**
 ![Alt text](./Figure/uniform_rendered_logarithmic.jpg)
+**tent, raw, linear**
 ![Alt text](./Figure/tent_raw_linear.jpg)
+**tent, raw, logarithmic**
 ![Alt text](./Figure/tent_raw_logarithmic.jpg)
+**tent, rendered, linear**
 ![Alt text](./Figure/tent_rendered_linear.jpg)
+**tent, rendered, logarithmic**
 ![Alt text](./Figure/tent_rendered_logarithmic.jpg)
+**gaussian, raw, linear**
 ![Alt text](./Figure/gaussian_raw_linear.jpg)
+**gaussian, raw, logarithmic**
 ![Alt text](./Figure/gaussian_raw_logarithmic.jpg)
+**gaussian, rendered, linear**
 ![Alt text](./Figure/gaussian_rendered_linear.jpg)
+**gaussian, rendered, logarithmic**
 ![Alt text](./Figure/gaussian_rendered_logarithmic.jpg)
 
+As you see, in uniform weighting cases, Raw image is better thatn Rendered image. However, in weighting type tent and gaussian cases, especially, 'rendered image + logarithmic merge type' is much better than 'rendered image + linear merge type' in my view.
 
 ### Question 3. EVALUATION (10pts)
 
