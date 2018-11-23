@@ -10,11 +10,11 @@ I choose 'lambda = 1000' for strict smoothing and Result part shows each 'g' cur
 
 **Results**
 
-![Alt text](./Figure/Q1/G_curve_uniform.jpg)
+![Alt text](./Figure/G_curve_uniform.jpg)
 
-![Alt text](./Figure/Q1/G_curve_tent.jpg)
+![Alt text](./Figure/G_curve_tent.jpg)
 
-![Alt text](./Figure/Q1/G_curve_gaussian.jpg)
+![Alt text](./Figure/G_curve_gaussian.jpg)
 
 
 ### Question 2. MERGE EXPOSURE STACK INTO HDR IMAGE (15pts)
