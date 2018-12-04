@@ -2,20 +2,25 @@
 
 ### Question 1. INITIALS (5pts) + Question 2. SUB-APERTURE VIEWS (20pts)
 
-Given plenoptic camera image has 16 * 16 aperture domain source pixels. So, I set L = (16, 16, 400, 700, 3). Then, I put image to img_plenoptic pixel each by using 'for' matlab tool.
+Given plenoptic camera image has 16 by 16 aperture domain source pixels. So, I set L = (16, 16, 400, 700, 3). Then, I put image to img_plenoptic pixel each by using 'for' matlab tool.
 
 **Results**
 
 **plenoptic image**
+
 ![Alt text](./Figure/img_plenoptic.png)
+
 **mosaic image**
+
 ![Alt text](./Figure/img_mosaic.png)
 
 I captured image each because of its size is So... big!
 
 ### Question 3. REFOCUSING AND FOCAL-STACK GENERATION (40pts)
 
-I merge exposure stack into HDR IMAGE each with two 'file_type : Rendered, Raw', 'weight_type : uniform, tent, gaussian', 'merge_type : logarithmic, linear'. The image is shown below.
+I implement refocusing which the assignment document explains by using formula as shown below. And, I set d = 0 , 0.6, 1, 1.6, 2. 
+
+![Alt text](./Figure/formula.refocus)
 
 **Results**
 
