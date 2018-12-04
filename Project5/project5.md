@@ -20,7 +20,7 @@ I captured image each because of its size is So... big!
 
 I implement refocusing which the assignment document explains by using formula as shown below. And, I set d = 0 , 0.6, 1, 1.6, 2. 
 
-![Alt text](./Figure/formula.refocus)
+![Alt text](./Figure/formula.refocus.png)
 
 **Results**
 
