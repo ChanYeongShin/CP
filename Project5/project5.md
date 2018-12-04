@@ -47,6 +47,11 @@ And, I set `d = 0`, `d = 0.6`, `d = 1`, `d = 1.6`, `d = 2`
 
 ### Question 4. ALL-FOCUS IMAGE AND DEPTH FROM DEFOCUS (35pts)
 
+I set `sigma 1 = 2.5` for low freq and `sigma 2 = 4` for sharpness blurring. I implement the following order each (Get luminance, Create low frequency, Create high frequency, Sharpness blurring). The order is shown below.
+
+![Alt text](./Figure/order.png)
+![Alt text](./Figure/order2.png)
+
 **Results**
 
 **All-focus image**
