@@ -20,19 +20,28 @@ I captured image each because of its size is So... big!
 
 I implement refocusing which the assignment document explains by using formula as shown below. And, I set d = 0 , 0.6, 1, 1.6, 2. 
 
-![Alt text](./Figure/formula.refocus.png)
+![Alt text](./Figure/formula_refocus.png)
 
 **Results**
 
 **d = 0**
+
 ![Alt text](./Figure/img_depth_0.png)
+
 **d = 0.6**
+
 ![Alt text](./Figure/img_depth_0.6.png)
+
 **d = 1**
+
 ![Alt text](./Figure/img_depth_1.png)
+
 **d = 1.6**
+
 ![Alt text](./Figure/img_depth_1.6.png)
+
 **d = 2**
+
 ![Alt text](./Figure/img_depth_2.png)
 
 As you see, in uniform weighting cases, Raw image is better thatn Rendered image. However, in weighting type tent and gaussian cases, especially, 'rendered image + logarithmic merge type' is much better than 'rendered image + linear merge type' in my view.
