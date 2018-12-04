@@ -18,7 +18,8 @@ I captured image each because of its size is So... big!
 
 ### Question 3. REFOCUSING AND FOCAL-STACK GENERATION (40pts)
 
-I implement refocusing which the assignment document explains by using formula as shown below. And, I set d = 0 , 0.6, 1, 1.6, 2. 
+I implement refocusing which the assignment document explains by using formula as shown below. 
+And, I set `d = 0`, `d = 0.6`, `d = 1`, `d = 1.6`, `d = 2`  
 
 ![Alt text](./Figure/formula_refocus.png)
 
