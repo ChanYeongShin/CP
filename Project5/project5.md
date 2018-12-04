@@ -6,9 +6,12 @@ Given plenoptic camera image has 16 * 16 aperture domain source pixels. So, I se
 
 **Results**
 
+**plenoptic image**
 ![Alt text](./Figure/img_plenoptic.png)
-
+**mosaic image**
 ![Alt text](./Figure/img_mosaic.png)
+
+I captured image each because of its size is So... big!
 
 ### Question 3. REFOCUSING AND FOCAL-STACK GENERATION (40pts)
 
@@ -16,15 +19,15 @@ I merge exposure stack into HDR IMAGE each with two 'file_type : Rendered, Raw',
 
 **Results**
 
-** d = 0 **
+**d = 0**
 ![Alt text](./Figure/img_depth_0.png)
-** d = 0.6 **
+**d = 0.6**
 ![Alt text](./Figure/img_depth_0.6.png)
-** d = 1 **
+**d = 1**
 ![Alt text](./Figure/img_depth_1.png)
-** d = 1.6 **
+**d = 1.6**
 ![Alt text](./Figure/img_depth_1.6.png)
-** d = 2 **
+**d = 2**
 ![Alt text](./Figure/img_depth_2.png)
 
 As you see, in uniform weighting cases, Raw image is better thatn Rendered image. However, in weighting type tent and gaussian cases, especially, 'rendered image + logarithmic merge type' is much better than 'rendered image + linear merge type' in my view.
