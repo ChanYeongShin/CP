@@ -45,12 +45,10 @@ And, I set `d = 0`, `d = 0.6`, `d = 1`, `d = 1.6`, `d = 2`
 
 ![Alt text](./Figure/img_depth_2.png)
 
-As you see, in uniform weighting cases, Raw image is better thatn Rendered image. However, in weighting type tent and gaussian cases, especially, 'rendered image + logarithmic merge type' is much better than 'rendered image + linear merge type' in my view.
-
 ### Question 4. ALL-FOCUS IMAGE AND DEPTH FROM DEFOCUS (35pts)
 
 **Results**
 
-![Alt text](./Figure/linear_regression.jpg)
+
 
 
