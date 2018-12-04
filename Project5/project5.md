@@ -49,6 +49,11 @@ And, I set `d = 0`, `d = 0.6`, `d = 1`, `d = 1.6`, `d = 2`
 
 **Results**
 
+**All-focus image**
 
+![Alt text](./Figure/img_all_focus.png)
 
+**Depth map**
+
+![Alt text](./Figure/img_depth.png)
 
